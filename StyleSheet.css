@@ -1,0 +1,52 @@
+﻿body {
+}
+#header {
+    background-color: #d7d3d3;
+    width: 1440px;
+    margin: auto;
+    border-style: solid;
+    border-color: black;
+}
+.linkitem a{
+    width:626px;
+    float:left;
+    text-align:center;
+    color:black;
+}
+.linkitem a:visited{
+    color:#09596f;
+}
+.linkitem a:hover{
+    color:#ff0000;
+}
+#menu{
+    width: 1440px;
+    margin: auto;
+    margin-top: 10px;
+    border-style: solid;
+    border-color: black;
+}
+#Content{
+    width: 1440px;
+    margin: auto;
+    margin-top: 10px;
+    border-style: solid;
+    border-color: black;
+}
+#footer{
+    background-color: #d7d3d3;
+    width: 1440px;
+    margin: auto;
+    margin-top: 10px;
+    border-style: solid;
+    border-color: black;
+}
+.clear{
+        clear:both;
+    }
+#GameOn{
+    float:left;
+}
+#HyperLinkGameOn{
+    float:left;
+}
